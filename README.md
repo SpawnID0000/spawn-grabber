@@ -38,8 +38,8 @@ Before installing `spawn-grabber`, ensure you have the following dependencies in
 ### Installing spawn-grabber
 To install `spawn-grabber`, clone the repository from GitHub and install it using pip:
 
-git clone https://github.com/SpawnID0000/spawn-grabber.git
-cd spawn-grabber
+git clone https://github.com/SpawnID0000/spawn-grabber.git  
+cd spawn-grabber  
 pip install .
 
 
