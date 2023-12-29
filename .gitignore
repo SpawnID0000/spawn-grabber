@@ -1,0 +1,13 @@
+# AppleDouble files
+._*
+
+# macOS system files
+.DS_Store
+
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
