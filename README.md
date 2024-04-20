@@ -48,12 +48,12 @@ After installation, you can use `spawn-grabber` as follows:
 
 spawn-grabber m3u_path ardrive_wallet_path [--music-path MUSIC_PATH]
 
-- `m3u_path`: Path to your M3U file.
+- `m3u_path`: Path to your M3U file ([sample file](https://github.com/SpawnID0000/spawn-grabber/blob/main/spawn-ardrive_30Hz.m3u))
 - `ardrive_wallet_path`: Path to your ArDrive wallet file.
-- `--music-path`: (Optional) Path where the folders will be downloaded and decrypted. Defaults to the current working directory.
+- `--music-path`: (Optional) Path where the folders will be downloaded and decrypted. Defaults to the current working directory
 
 ## License
-`spawn-grabber` is released under the GPL-3.0 license. See the LICENSE file for more details.
+`spawn-grabber` is released under the GPL-3.0 license. See the LICENSE file for more details
 
 
 ## Support
